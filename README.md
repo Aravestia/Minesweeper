@@ -1,2 +1,3 @@
 # Minesweeper
-# First time using GitHub, testing how it works
+
+  This is a minesweeper game made in Java, part of a school project. To play it, compile and run Minesweepermain.java in command line!
